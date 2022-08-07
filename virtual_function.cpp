@@ -1,7 +1,7 @@
 #include<iostream>
 #include<conio.h>
 using namespace std;
-
+//class Name
 class Base {
 public:
  virtual void disk(){
